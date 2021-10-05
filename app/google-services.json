@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "410071695899",
+    "firebase_url": "https://sms-94-default-rtdb.firebaseio.com",
+    "project_id": "sms-94",
+    "storage_bucket": "sms-94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410071695899:android:89273d4bb3cc372c03aebe",
+        "android_client_info": {
+          "package_name": "com.code94.sms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410071695899-4t83na5ospu7da0e129hcsouh7532lqc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5zVKM7Ht8abwbZzgkemMxdfd_PXfR0uw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410071695899-4t83na5ospu7da0e129hcsouh7532lqc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410071695899:android:686b2f647515704403aebe",
+        "android_client_info": {
+          "package_name": "com.example.studentmanagementsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410071695899-4t83na5ospu7da0e129hcsouh7532lqc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5zVKM7Ht8abwbZzgkemMxdfd_PXfR0uw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410071695899-4t83na5ospu7da0e129hcsouh7532lqc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

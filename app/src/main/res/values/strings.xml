@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Students Portal</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_attendance">Attendance</string>
+    <string name="title_marks">Marks</string>
+</resources>
